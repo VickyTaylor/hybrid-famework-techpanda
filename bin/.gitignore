@@ -1,0 +1,14 @@
+/Acction.json
+/PageUIs/
+/com/
+/commons/
+/env-dev.properties
+/env-staging.properties
+/env-test.properties
+/factoryBrowser/
+/log4j.xml
+/pageFragment/
+/pageObjects/
+/reportConfig/
+/runTechPandaTestcases.xml
+/utilities/
